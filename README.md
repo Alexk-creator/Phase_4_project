@@ -17,6 +17,7 @@ monitor customer feedback efficiently.
 - Multinomial Naive Bayes
 - Logistic Regression (best performer - 69.3% accuracy)
 - Random Forest Classifier
+- sklearn Pipeline (TF-IDF + Logistic Regression) - 69.07% accuracy
 
 ## Technologies Used
 - Python, pandas, numpy
